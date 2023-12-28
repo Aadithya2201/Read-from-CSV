@@ -17,8 +17,8 @@ End the program
 ## PROGRAM:
 ```
 """write a program to read a csv file
-Developed by :MIDHUN S
-Reference no:23003250
+Developed by :AADITHYA R
+Reference no:23006361
 """
 import pandas as pd
 df=pd.read_csv("cars.csv")
@@ -29,10 +29,13 @@ print("Columns",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![output](/Screenshot%202023-07-25%20081716.jpg)
-![output](/Screenshot%202023-07-25%20082600.jpg)
+![Screenshot 2023-12-28 155730](https://github.com/Aadithya2201/Read-from-CSV/assets/145917810/65947c3a-5345-4359-8e13-f157381e8bef)
 
-i)CSV FILE
-![output](/Screenshot%202023-07-25%20082240.jpg)
+![Screenshot 2023-12-28 155750](https://github.com/Aadithya2201/Read-from-CSV/assets/145917810/0631f170-0355-4d3a-ac5e-cd17a0b93642)
+
+
+### i)CSV FILE
+![Screenshot 2023-12-28 155804](https://github.com/Aadithya2201/Read-from-CSV/assets/145917810/b53ad889-90aa-4a33-8b3b-2d7ff8297c91)
+
 ## RESULT:
 Thus the program is written to read a csv file.
